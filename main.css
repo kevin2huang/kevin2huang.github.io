@@ -2,22 +2,80 @@ p{
 	color:red; 
 }
 
-.circle{
-	width:50px;
-	height:50px;
-	background-color: yellow;
+.verticalLine{
+	left:50%;
+	top:0%;
+	position:absolute;
+	border:2px solid black;
+	height: 100%;
 }
 
-.name{
+.circle{
+	width:5%;
+	height:15%;
 	left:50%;
 	top:50%;
 	position:absolute;
 	transform: translate(-50%, -50%);
 }
 
+.img-circle {
+	width: 60%;
+	height: 60%;
+    border-radius: 50%;
+    left:50%;
+	top:45%;
+	position:absolute;
+	transform: translate(-50%, -50%);
+}
+
+.name{
+	font-size: 20px;
+	left:50%;
+	top:5%;
+	position:absolute;
+	transform: translate(-50%, -50%);
+}
+
 .aboutme{
 	left:50%;
-	top:45%;
+	top:85%;
+	position:absolute;
+	transform: translate(-50%,-50%);
+}
+
+.ccontainer{
+	width: 50vmin;
+	height: 50vmin;
+	left:50%;
+	top:50%;
+	position:absolute;
+	transform: translate(-48%,-50%);
+}
+
+.lcontainer{
+	width : 50%;
+	height: 100%;
+	position:absolute;
+}
+
+.lheader{
+	font-size: 20px;
+	left:50%;
+	position:absolute;
+	transform: translate(-50%,-50%);
+}
+
+.rcontainer{
+	width : 50%;
+	height: 100%;
+	left:50%;
+	position:absolute;
+}
+
+.rheader{
+	font-size: 20px;
+	left:50%;
 	position:absolute;
 	transform: translate(-50%,-50%);
 }
