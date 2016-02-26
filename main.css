@@ -60,7 +60,7 @@ p{
 }
 
 .lheader{
-	font-size: 20px;
+	font-size: 5vmin;
 	left:50%;
 	position:absolute;
 	transform: translate(-50%,-50%);
@@ -74,7 +74,7 @@ p{
 }
 
 .rheader{
-	font-size: 20px;
+	font-size: 5vmin;
 	left:50%;
 	position:absolute;
 	transform: translate(-50%,-50%);
