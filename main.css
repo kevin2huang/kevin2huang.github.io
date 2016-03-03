@@ -9,6 +9,16 @@ p{
 	border:2px solid black;
 	height: 100%;
 }
+.tabaret{
+	width: 70%;
+	height: 50%;
+	background: red;
+	left:50%;
+	top: 30%;
+	position:absolute;
+	transform: translate(-50%,-50%);
+	
+}
 
 .circle{
 	width:5%;
@@ -30,10 +40,16 @@ p{
 }
 
 .name{
-	font-size: 20px;
-	left:50%;
-	top:5%;
+	font-size: 70px;
+	top:10%;
 	position:absolute;
+	transform: translate(-50%, -50%);
+}
+
+.subname{
+	font-size: 15px;
+	top:43%;
+	position: absolute;
 	transform: translate(-50%, -50%);
 }
 
@@ -45,12 +61,12 @@ p{
 }
 
 .ccontainer{
-	width: 50vmin;
+	width: 45vmin;
 	height: 50vmin;
-	left:50%;
+	left:60%;
 	top:50%;
 	position:absolute;
-	transform: translate(-48%,-50%);
+	transform: translate(-50%,-50%);
 }
 
 .lcontainer{
