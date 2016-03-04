@@ -1,6 +1,9 @@
 p{
 	color:red; 
 }
+body{
+	background-color: #3498db;
+}
 
 .verticalLine{
 	left:50%;
@@ -41,6 +44,7 @@ p{
 
 .name{
 	font-size: 70px;
+	color: white;
 	top:10%;
 	position:absolute;
 	transform: translate(-50%, -50%);
