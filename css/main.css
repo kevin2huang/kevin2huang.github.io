@@ -5,17 +5,24 @@ body{
 	background-color: #3498db;
 }
 
-
+.btncontainer{
+	width: 60vmin;
+	height: inline-block;
+	left: 62%;
+	top: 50%;
+	position:absolute;
+	transform: translate(-50%, -50%);
+}
 
 .firstme{
-	width: 10%;
-	height: 30%;
+	width: 12%;
+	height: 33%;
 	background: black;
-	left:40%;
+	left:37%;
 	top: 65%;
 	color: white;
 	position:absolute;
-	
+	transform: translate(-50%, -50%);
 }
 
 .circle{
@@ -37,17 +44,17 @@ body{
 	transform: translate(-50%, -50%);
 }
 
-.name{
-	font-size: 70px;
+.hello{
+	font-size: 15vmin;
 	color: white;
-	top:10%;
+	top:20%;
 	position:absolute;
 	transform: translate(-50%, -50%);
 }
 
 .subname{
-	font-size: 15px;
-	top:43%;
+	font-size: 3vmin;
+	top:38%;
 	position: absolute;
 	transform: translate(-50%, -50%);
 }
