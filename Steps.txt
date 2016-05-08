@@ -1,3 +1,5 @@
 Steps to making a Interactive Front End Website
 
 1. Design the script
+
+2. Design the art
