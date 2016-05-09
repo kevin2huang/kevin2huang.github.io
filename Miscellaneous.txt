@@ -1,0 +1,17 @@
+Have a HISTORY:
+  Timeline that clearly shows all the events I've participated and my status at the time. 
+  
+Events: 
+  -CUSEC (CANADIAN UNIVERSITY SOFTWARE ENGINEERING CONFERENCE) January 14 - 16th, 2016
+  -ConUHacks January 23rd - 24th, 2016
+  -McHacks February 20-21, 2016
+  -QHacks March 4 – March 6, 2016
+  -DeCode/Legacy April 1-2, 2016
+  -CUTC May 7-8, 2016
+  -StartupWeekend Feb 26-28, 2016
+  -U_mobile_app Feb - Aug 2016
+  
+Status:
+  Student: Sept - December
+           Jan - April
+  Intern: May - Aug
