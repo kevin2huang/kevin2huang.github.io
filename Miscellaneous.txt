@@ -1,5 +1,6 @@
 Certificates: 
   -Google
+  -Network+
   
 Finance:
   Big Data
