@@ -22,3 +22,7 @@ Places to apply:
   - Facebook
   - Google
   - 
+  
+School:
+  Faculty of Engineering 
+  Department of Computer Science
