@@ -31,3 +31,6 @@ Places to apply:
 School:
   Faculty of Engineering 
   Department of Computer Science
+  
+Educative
+  Voice recognition: say answers as fast as possible. (math) 
