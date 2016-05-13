@@ -34,3 +34,6 @@ School:
   
 Educative
   Voice recognition: say answers as fast as possible. (math) 
+  
+Hygene
+  Auto-cleaning phone machine
