@@ -15,3 +15,7 @@ Status:
   Student: Sept - December
            Jan - April
   Intern: May - Aug
+
+npm:
+  browersify
+  jquery
