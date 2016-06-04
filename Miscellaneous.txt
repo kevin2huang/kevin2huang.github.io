@@ -37,3 +37,4 @@ Project ideas
   Auto-cleaning phone machine
   Text highlighted automatically when reading a document
   Voice moving chess pieces
+  harry potter chess
