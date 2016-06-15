@@ -1,6 +1,7 @@
 Have a HISTORY:
   Timeline that clearly shows all the events I've participated and my status at the time. 
   
+Other info.
 Events: 
   -CUSEC (CANADIAN UNIVERSITY SOFTWARE ENGINEERING CONFERENCE) January 14 - 16th, 2016
   -ConUHacks January 23rd - 24th, 2016
@@ -23,3 +24,6 @@ npm:
 photoshop:
   moving clouds
   me  
+  
+tools
+  -Hadoop
