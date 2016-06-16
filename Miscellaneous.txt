@@ -38,4 +38,6 @@ Project ideas
   Text highlighted automatically when reading a document
   Voice moving chess pieces
   harry potter chess
-Gitchess
+  Gitchess
+  Alice chess
+  vector chess
