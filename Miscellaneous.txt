@@ -41,3 +41,4 @@ Project ideas
   Gitchess
   Alice chess
   vector chess
+  Pokemon and magnets
