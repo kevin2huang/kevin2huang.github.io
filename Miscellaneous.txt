@@ -36,9 +36,10 @@ School:
 Project ideas
   Voice recognition: say answers as fast as possible. (math)
   Text highlighted automatically when reading a document
-  Voice moving chess pieces
-  harry potter chess
-  Gitchess
-  Alice chess
-  vector chess
+  Chess:
+    -Voice moving chess pieces
+    -harry potter chess
+    -Gitchess
+    -Alice chess
+    -vector chess
   Pokemon and magnets
