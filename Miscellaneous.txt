@@ -43,3 +43,4 @@ Project ideas
     -Alice chess
     -vector chess
   Pokemon and magnets
+  App that reads texts and automatically makes events 
