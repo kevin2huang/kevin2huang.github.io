@@ -27,3 +27,11 @@ photoshop:
   
 tools
   -Hadoop
+  
+youtube
+  Totalwar : Warhammer Battle outcomes
+  1 v 1
+  1 v 1 catapult
+  100 v 100 
+  uphill v downhill
+  
