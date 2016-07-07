@@ -28,6 +28,9 @@ photoshop:
 tools
   -Hadoop
   
+Pokemon
+  Shiny counter app
+  
 youtube
   Totalwar : Warhammer Battle outcomes
   1 v 1
