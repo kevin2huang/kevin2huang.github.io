@@ -32,9 +32,11 @@ Pokemon
   Shiny counter app
   
 youtube
-  Totalwar : Warhammer Battle outcomes
+  name = Totalwar : Warhammer Battle outcomes? 
   1 v 1
   1 v 1 catapult
-  100 v 100 
+  100 v 100
   uphill v downhill
+  Talk about why this is the outcome.
+  kills per second
   
