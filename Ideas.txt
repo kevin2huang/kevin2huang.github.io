@@ -41,6 +41,33 @@ youtube
   kills per second
   
 Gamers Bar
+  Permits:
+  
+  Location:
+  
+  Equipment:
+    Dining hall:
+      -TV screens
+      -Tables
+      -Chairs
+    Kitchen:
+      -
+  Staff:
+    Clothing:
+      -Waiters: Colorful: pokemon/league/some game tshirt. 
+      -Busboys: Black: game design.
+    
+    Payment method:
+    
+    Wage:
+      -Minimum + bonus/benefits
+      
+  Marketing:
+    -Website
+    -Facebook
+    -Twitter
+    -Instagram
+    
   Screens and tables.
   Rooms that can be rented out for groups of players. 
   Catchy gamer design for the menu. 
@@ -50,3 +77,4 @@ Gamers Bar
   http://www.ehow.com/info_7748703_do-need-start-restaurant.html
   http://www.ehow.com/how_4895694_start-restaurant-money.html
   http://www.ehow.com/info_7962844_things-need-start-own-restaurant.html
+  Cameras
