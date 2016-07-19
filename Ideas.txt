@@ -34,7 +34,7 @@ Pokemon
 youtube
   name = Totalwar : Warhammer Battle outcomes? 
   1 v 1
-  1 v 1 catapult
+  1 v 1 catapult - how long does it take.
   100 v 100
   uphill v downhill
   Talk about why this is the outcome.
@@ -42,16 +42,26 @@ youtube
   
 Gamers Bar
   Permits:
-  
+    -Drinks
+    -Food
+    
   Location:
-  
+    Downtown
+    Next to a metro
+    Next to a mall
+    Where there are a lot of gamers
+    
   Equipment:
     Dining hall:
       -TV screens
       -Tables
       -Chairs
+      
     Kitchen:
+      -stove
+      -utensiles
       -
+      
   Staff:
     Clothing:
       -Waiters: Colorful: pokemon/league/some game tshirt. 
@@ -67,11 +77,17 @@ Gamers Bar
     -Facebook
     -Twitter
     -Instagram
-    
-  Screens and tables.
-  Rooms that can be rented out for groups of players. 
-  Catchy gamer design for the menu. 
-  Gamer decorations.
+  
+  Menu: slick gamer design
+    Gamer snacks:
+      -Chips with chopsticks to keep hands clean.
+      
+  Inside structure:
+    -Main floor: dining hall + streaming games.
+    -upper floor: private rooms for gaming and watching.
+    -have with paint that other people can write on? 
+  
+Achievement objectives
   Write out a business plan to present to the banks. 
   cheap advertising.
   http://www.ehow.com/info_7748703_do-need-start-restaurant.html
