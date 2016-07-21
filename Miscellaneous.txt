@@ -33,6 +33,16 @@ School:
   Faculty of Engineering 
   Department of Computer Science
   
+Pokemon GO map:
+  -Pokestop: number, name.
+    Color coded:
+      -Yellow: 2 nearby stops
+      -Orange: 3
+      -Red: 4
+      -Black: 5+
+  -Gym: number, name.
+  Color coded:
+
 Project ideas
   Voice recognition: say answers as fast as possible. (math)
   Text highlighted automatically when reading a document
