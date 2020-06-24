@@ -12,25 +12,60 @@ body{
 }
 
 header {
-    background-color: white;
+	z-index: 1000;
+    /*background-color: white;*/
     position: fixed;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 header .links {
     padding: 16px;
+    color: white;
 }
 
 .top-links {
 	padding-right: 30px;
 }
 
-.page-sections {
-	background: url(../image/home_bg.jpg);
-	background-size: cover;
-	opacity: 0.5;
-	height: 100%;
-	width: 100%;
+.homepage-me {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    position: relative;
 }
 
+img .homepage-me{
+	opacity: 0.5;
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	z-index: -1;
+}
 
+#darken {
+	filter: brightness(40%);
+}
+
+#intro {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+	margin-left: 16px;
+	margin-right: 16px;
+	z-index: 1000;
+	position: absolute;
+	top: 30vh;
+}
+
+#intro img {
+    width: 256px;
+    height: 256px;
+}
+
+#intro .intro-text {
+	margin-left: 32px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+}
