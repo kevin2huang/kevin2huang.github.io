@@ -1,9 +1,23 @@
 p{
-	color: black; 
+	color: black;
+	font-family: 'Roboto', sans-serif;
 }
 
 body{
+	font-family: 'Roboto', sans-serif;
+}
 
+h1 {
+	color: #959ca5;
+	font-weight: normal;
+}
+
+header {
+	z-index: 1000;
+    background-color: white;
+    position: fixed;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-top: 20px;
 }
 
 .top-header {
@@ -11,35 +25,33 @@ body{
     text-align: center;
 }
 
-header {
-	z-index: 1000;
-    /*background-color: white;*/
-    position: fixed;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
 header .links {
     padding: 16px;
-    color: white;
+    font-size: 15pt;
 }
 
-.top-links {
+.top-links{
 	padding-right: 30px;
 }
 
+a:hover {
+    cursor: pointer;
+    color: black;
+    text-decoration: underline;
+}
+
 .homepage-me {
-    height: 100vh;
+	height: 100vh;
     display: flex;
     justify-content: center;
-    align-content: center;
     position: relative;
+    overflow: hidden;
 }
 
 img .homepage-me{
-	opacity: 0.5;
 	background-repeat: no-repeat;
-  	background-size: cover;
   	z-index: -1;
+  	background-size: cover;
 }
 
 #darken {
@@ -53,14 +65,15 @@ img .homepage-me{
 	align-items: center;
 	margin-left: 16px;
 	margin-right: 16px;
-	z-index: 1000;
+	z-index: 900;
 	position: absolute;
-	top: 30vh;
+	text-align: center;
+	top: 35%;
 }
 
 #intro img {
-    width: 256px;
-    height: 256px;
+    width: 250px;
+    height: 250px;
 }
 
 #intro .intro-text {
@@ -68,4 +81,15 @@ img .homepage-me{
 	display: flex;
 	flex-direction: column;
 	justify-content: flex-start;
+}
+
+.highlight {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.career {
+	height: 100vh;
+	width: 100%;
+	background-color: lightblue;
 }
