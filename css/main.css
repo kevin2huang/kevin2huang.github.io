@@ -8,8 +8,12 @@ body{
 }
 
 h1 {
-	color: #959ca5;
 	font-weight: normal;
+}
+
+hr {
+	width: 20%;
+	margin-top:0px;
 }
 
 header {
@@ -77,6 +81,7 @@ img .homepage-me{
 }
 
 #intro .intro-text {
+	color: #959ca5;
 	margin-left: 32px;
 	display: flex;
 	flex-direction: column;
@@ -88,8 +93,60 @@ img .homepage-me{
 	font-weight: bold;
 }
 
-.career {
+.title {
+	font-size: 30pt;
+	font-weight: 700;
+}
+
+#about {
 	height: 100vh;
-	width: 100%;
-	background-color: lightblue;
+	text-align: center;
+}
+
+#about .career-items {
+	max-width: 120vh;
+	margin: auto;
+}
+
+#about .career-item {
+	margin: 20px;
+	display: flex;
+	float: left;
+}
+
+.career-item .item-details-left {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	max-width: 20vh;
+	position: relative;
+}
+
+.career-item .item-details-right {
+	text-align: left;
+	max-width: 100vh;
+	position: relative;
+}
+
+.item-details-left .img-logo {
+	max-width: 70%;
+	max-height: 70%;
+}
+
+.organization {
+	font-size: 12pt;
+	font-weight: 700;
+}
+
+.item-description {
+	font-weight: normal;
+}
+
+.dates {
+
+}
+
+.item-title {
+	font-size: 12pt;
+	font-weight: 700;
 }
