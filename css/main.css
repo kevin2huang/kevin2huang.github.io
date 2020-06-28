@@ -13,7 +13,7 @@ h1 {
 }
 
 hr {
-	width: 30%;
+	width: 30vh;
 	margin-top:0px;
 }
 
@@ -95,8 +95,7 @@ img .homepage-me{
 }
 
 .title {
-	font-size: 13pt;
-	font-weight: 700;
+	font-size: 12pt;
 	width: 100%;
 }
 
@@ -109,7 +108,7 @@ img .homepage-me{
 }
 
 #about .career-items {
-	max-width: 115vh;
+	max-width: 85vh;
 }
 
 #about .career-item {
@@ -118,19 +117,20 @@ img .homepage-me{
 
 .career-item .item-details-left {
 	display: flex;
-	align-items: center;
+	align-items: flex-start;
 	justify-content: center;
-	max-width: 20vh;
+	width: 20vh;
 }
 
 .career-item .item-details-right {
 	text-align: left;
-	max-width: 100vh;
+	width: 80vh;
 }
 
 .item-details-left .img-logo {
-	max-width: 70%;
-	max-height: 70%;
+	max-width: 65%;
+	max-height: 65%;
+	padding-top: 10%;
 }
 
 .organization {
@@ -143,7 +143,7 @@ img .homepage-me{
 }
 
 .dates {
-
+	font-style: italic;
 }
 
 .item-title {
